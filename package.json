@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kristycarp/toasty-boi/issues"
   },
-  "homepage": "https://github.com/kristycarp/toasty-boi#readme"
+  "homepage": "https://github.com/kristycarp/toasty-boi#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
 }
